@@ -1,0 +1,2 @@
+.vscode
+linus_bhaya.jpeg
